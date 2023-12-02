@@ -3,9 +3,9 @@
 <body>
 <h1>View Form</h1>
 <p>Category: ${list.category}</p>
-<p>Title:${list.title}</p>
+<p>Title: ${list.title}</p>
 <p>Writer: ${list.writer}</p>
 <p>Content: ${list.content}</p>
-<button type="button" onclick="location.href='../posts'">목록으로</button>
+<button type="button" onclick="location.href='../list'">목록으로</button>
 </body>
 

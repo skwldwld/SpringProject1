@@ -10,6 +10,9 @@
 <head>
     <title>Title</title>
 </head>
+<script type="text/javascript" >
+    window.location.replace("board/list")
+</script>
 <body>
     Hello 안녕!
 </body>
